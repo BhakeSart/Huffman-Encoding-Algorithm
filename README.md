@@ -1,3 +1,3 @@
 # Huffman-Encoding-Algorithm
 
-DAA CP 5th Semester
+DAA Course Project 5th Semester
